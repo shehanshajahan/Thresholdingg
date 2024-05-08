@@ -99,7 +99,7 @@ for i in range(0,9):
 
 
 ### Optimum Global Thesholding using Otsu's Method
-![Uploading image.png…]()
+![image](https://github.com/arshatha-palanivel/Thresholdingg/assets/118682484/d3807b34-a824-424c-be75-d31e5e00af13)
 
 
 ## Result
